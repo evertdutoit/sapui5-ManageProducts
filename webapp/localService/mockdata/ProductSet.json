@@ -1,0 +1,429 @@
+[{
+    "__metadata": {
+      "id": "ProductSet('158302134')",
+      "uri": "ProductSet('158302134')",
+      "type": "GWSAMPLE_BASIC.Product",
+      "etag": "W/\"datetime'2019-10-08T06%3A29%3A57.8416180'\""
+    },
+    "ProductID": "158302134",
+    "TypeCode": "PR",
+    "Category": "Notebooks",
+    "Name": "VV",
+    "NameLanguage": "EN",
+    "Description": "",
+    "DescriptionLanguage": "",
+    "SupplierID": "0100000009",
+    "SupplierName": "Telecomunicaciones Star",
+    "TaxTarifCode": 1,
+    "MeasureUnit": "EA",
+    "WeightMeasure": "0.000",
+    "WeightUnit": "",
+    "CurrencyCode": "EUR",
+    "Price": "280.00",
+    "Width": "0.000",
+    "Depth": "0.000",
+    "Height": "0.000",
+    "DimUnit": "",
+    "CreatedAt": "/Date(1570516197841)/",
+    "ChangedAt": "/Date(1570516197841)/",
+    "ToSalesOrderLineItems": {
+      "__deferred": {
+        "uri": "ProductSet('158302134')/ToSalesOrderLineItems"
+      }
+    },
+    "ToSupplier": {
+      "__deferred": {
+        "uri": "ProductSet('158302134')/ToSupplier"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "ProductSet('240069022')",
+      "uri": "ProductSet('240069022')",
+      "type": "GWSAMPLE_BASIC.Product",
+      "etag": "W/\"datetime'2019-10-08T15%3A29%3A03.1217260'\""
+    },
+    "ProductID": "240069022",
+    "TypeCode": "PR",
+    "Category": "Notebooks",
+    "Name": "aTest",
+    "NameLanguage": "EN",
+    "Description": "",
+    "DescriptionLanguage": "",
+    "SupplierID": "0100000000",
+    "SupplierName": "SAP",
+    "TaxTarifCode": 1,
+    "MeasureUnit": "EA",
+    "WeightMeasure": "0.000",
+    "WeightUnit": "",
+    "CurrencyCode": "USD",
+    "Price": "1000.00",
+    "Width": "0.000",
+    "Depth": "0.000",
+    "Height": "0.000",
+    "DimUnit": "",
+    "CreatedAt": "/Date(1570548543121)/",
+    "ChangedAt": "/Date(1570548543121)/",
+    "ToSalesOrderLineItems": {
+      "__deferred": {
+        "uri": "ProductSet('240069022')/ToSalesOrderLineItems"
+      }
+    },
+    "ToSupplier": {
+      "__deferred": {
+        "uri": "ProductSet('240069022')/ToSupplier"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "ProductSet('279939377')",
+      "uri": "ProductSet('279939377')",
+      "type": "GWSAMPLE_BASIC.Product",
+      "etag": "W/\"datetime'2019-10-08T02%3A58%3A51.8797710'\""
+    },
+    "ProductID": "279939377",
+    "TypeCode": "PR",
+    "Category": "Notebooks",
+    "Name": "KIOSKI12",
+    "NameLanguage": "EN",
+    "Description": "",
+    "DescriptionLanguage": "",
+    "SupplierID": "0100000020",
+    "SupplierName": "Russian Electronic Trading Company",
+    "TaxTarifCode": 1,
+    "MeasureUnit": "EA",
+    "WeightMeasure": "0.000",
+    "WeightUnit": "",
+    "CurrencyCode": "EUR",
+    "Price": "122.00",
+    "Width": "0.000",
+    "Depth": "0.000",
+    "Height": "0.000",
+    "DimUnit": "",
+    "CreatedAt": "/Date(1570503531879)/",
+    "ChangedAt": "/Date(1570503531879)/",
+    "ToSalesOrderLineItems": {
+      "__deferred": {
+        "uri": "ProductSet('279939377')/ToSalesOrderLineItems"
+      }
+    },
+    "ToSupplier": {
+      "__deferred": {
+        "uri": "ProductSet('279939377')/ToSupplier"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "ProductSet('358220497')",
+      "uri": "ProductSet('358220497')",
+      "type": "GWSAMPLE_BASIC.Product",
+      "etag": "W/\"datetime'2019-10-08T03%3A17%3A40.2552170'\""
+    },
+    "ProductID": "358220497",
+    "TypeCode": "PR",
+    "Category": "Notebooks",
+    "Name": "11",
+    "NameLanguage": "EN",
+    "Description": "",
+    "DescriptionLanguage": "",
+    "SupplierID": "0100000001",
+    "SupplierName": "Becker Berlin",
+    "TaxTarifCode": 1,
+    "MeasureUnit": "EA",
+    "WeightMeasure": "0.000",
+    "WeightUnit": "",
+    "CurrencyCode": "EUR",
+    "Price": "10.00",
+    "Width": "0.000",
+    "Depth": "0.000",
+    "Height": "0.000",
+    "DimUnit": "",
+    "CreatedAt": "/Date(1570504660255)/",
+    "ChangedAt": "/Date(1570504660255)/",
+    "ToSalesOrderLineItems": {
+      "__deferred": {
+        "uri": "ProductSet('358220497')/ToSalesOrderLineItems"
+      }
+    },
+    "ToSupplier": {
+      "__deferred": {
+        "uri": "ProductSet('358220497')/ToSupplier"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "ProductSet('4114114')",
+      "uri": "ProductSet('4114114')",
+      "type": "GWSAMPLE_BASIC.Product",
+      "etag": "W/\"datetime'2019-10-08T12%3A37%3A01.3912630'\""
+    },
+    "ProductID": "4114114",
+    "TypeCode": "PR",
+    "Category": "Accessories",
+    "Name": "Tuna",
+    "NameLanguage": "EN",
+    "Description": "",
+    "DescriptionLanguage": "",
+    "SupplierID": "0100000011",
+    "SupplierName": "Alpine Systems",
+    "TaxTarifCode": 1,
+    "MeasureUnit": "EA",
+    "WeightMeasure": "0.000",
+    "WeightUnit": "",
+    "CurrencyCode": "EUR",
+    "Price": "5.00",
+    "Width": "0.000",
+    "Depth": "0.000",
+    "Height": "0.000",
+    "DimUnit": "",
+    "CreatedAt": "/Date(1570527642720)/",
+    "ChangedAt": "/Date(1570538221391)/",
+    "ToSalesOrderLineItems": {
+      "__deferred": {
+        "uri": "ProductSet('4114114')/ToSalesOrderLineItems"
+      }
+    },
+    "ToSupplier": {
+      "__deferred": {
+        "uri": "ProductSet('4114114')/ToSupplier"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "ProductSet('441182363')",
+      "uri": "ProductSet('441182363')",
+      "type": "GWSAMPLE_BASIC.Product",
+      "etag": "W/\"datetime'2019-10-08T03%3A15%3A19.0269090'\""
+    },
+    "ProductID": "441182363",
+    "TypeCode": "PR",
+    "Category": "Notebooks",
+    "Name": "Cy",
+    "NameLanguage": "EN",
+    "Description": "",
+    "DescriptionLanguage": "",
+    "SupplierID": "0100000009",
+    "SupplierName": "Telecomunicaciones Star",
+    "TaxTarifCode": 1,
+    "MeasureUnit": "EA",
+    "WeightMeasure": "0.000",
+    "WeightUnit": "",
+    "CurrencyCode": "EUR",
+    "Price": "100.00",
+    "Width": "0.000",
+    "Depth": "0.000",
+    "Height": "0.000",
+    "DimUnit": "",
+    "CreatedAt": "/Date(1570504519026)/",
+    "ChangedAt": "/Date(1570504519026)/",
+    "ToSalesOrderLineItems": {
+      "__deferred": {
+        "uri": "ProductSet('441182363')/ToSalesOrderLineItems"
+      }
+    },
+    "ToSupplier": {
+      "__deferred": {
+        "uri": "ProductSet('441182363')/ToSupplier"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "ProductSet('485631058')",
+      "uri": "ProductSet('485631058')",
+      "type": "GWSAMPLE_BASIC.Product",
+      "etag": "W/\"datetime'2019-10-08T05%3A26%3A21.1381200'\""
+    },
+    "ProductID": "485631058",
+    "TypeCode": "PR",
+    "Category": "Notebooks",
+    "Name": "ERP",
+    "NameLanguage": "EN",
+    "Description": "",
+    "DescriptionLanguage": "",
+    "SupplierID": "0100000002",
+    "SupplierName": "DelBont Industries",
+    "TaxTarifCode": 1,
+    "MeasureUnit": "EA",
+    "WeightMeasure": "0.000",
+    "WeightUnit": "",
+    "CurrencyCode": "EUR",
+    "Price": "120.00",
+    "Width": "0.000",
+    "Depth": "0.000",
+    "Height": "0.000",
+    "DimUnit": "",
+    "CreatedAt": "/Date(1570512381138)/",
+    "ChangedAt": "/Date(1570512381138)/",
+    "ToSalesOrderLineItems": {
+      "__deferred": {
+        "uri": "ProductSet('485631058')/ToSalesOrderLineItems"
+      }
+    },
+    "ToSupplier": {
+      "__deferred": {
+        "uri": "ProductSet('485631058')/ToSupplier"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "ProductSet('498382421')",
+      "uri": "ProductSet('498382421')",
+      "type": "GWSAMPLE_BASIC.Product",
+      "etag": "W/\"datetime'2019-10-08T02%3A15%3A14.3545870'\""
+    },
+    "ProductID": "498382421",
+    "TypeCode": "PR",
+    "Category": "Notebooks",
+    "Name": "Joven Kasi",
+    "NameLanguage": "EN",
+    "Description": "",
+    "DescriptionLanguage": "",
+    "SupplierID": "0100000000",
+    "SupplierName": "SAP",
+    "TaxTarifCode": 1,
+    "MeasureUnit": "EA",
+    "WeightMeasure": "0.000",
+    "WeightUnit": "",
+    "CurrencyCode": "EUR",
+    "Price": "69.00",
+    "Width": "0.000",
+    "Depth": "0.000",
+    "Height": "0.000",
+    "DimUnit": "",
+    "CreatedAt": "/Date(1570500914354)/",
+    "ChangedAt": "/Date(1570500914354)/",
+    "ToSalesOrderLineItems": {
+      "__deferred": {
+        "uri": "ProductSet('498382421')/ToSalesOrderLineItems"
+      }
+    },
+    "ToSupplier": {
+      "__deferred": {
+        "uri": "ProductSet('498382421')/ToSupplier"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "ProductSet('504376198')",
+      "uri": "ProductSet('504376198')",
+      "type": "GWSAMPLE_BASIC.Product",
+      "etag": "W/\"datetime'2019-10-08T02%3A21%3A19.6814040'\""
+    },
+    "ProductID": "504376198",
+    "TypeCode": "PR",
+    "Category": "Notebooks",
+    "Name": "Dan",
+    "NameLanguage": "EN",
+    "Description": "",
+    "DescriptionLanguage": "",
+    "SupplierID": "0100000010",
+    "SupplierName": "Pear Computing Services",
+    "TaxTarifCode": 1,
+    "MeasureUnit": "EA",
+    "WeightMeasure": "0.000",
+    "WeightUnit": "",
+    "CurrencyCode": "EUR",
+    "Price": "2323.00",
+    "Width": "0.000",
+    "Depth": "0.000",
+    "Height": "0.000",
+    "DimUnit": "",
+    "CreatedAt": "/Date(1570501279681)/",
+    "ChangedAt": "/Date(1570501279681)/",
+    "ToSalesOrderLineItems": {
+      "__deferred": {
+        "uri": "ProductSet('504376198')/ToSalesOrderLineItems"
+      }
+    },
+    "ToSupplier": {
+      "__deferred": {
+        "uri": "ProductSet('504376198')/ToSupplier"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "ProductSet('661944840')",
+      "uri": "ProductSet('661944840')",
+      "type": "GWSAMPLE_BASIC.Product",
+      "etag": "W/\"datetime'2019-10-08T07%3A58%3A49.2686060'\""
+    },
+    "ProductID": "661944840",
+    "TypeCode": "PR",
+    "Category": "Notebooks",
+    "Name": "asdasdas",
+    "NameLanguage": "EN",
+    "Description": "",
+    "DescriptionLanguage": "",
+    "SupplierID": "0100000000",
+    "SupplierName": "SAP",
+    "TaxTarifCode": 1,
+    "MeasureUnit": "EA",
+    "WeightMeasure": "0.000",
+    "WeightUnit": "",
+    "CurrencyCode": "EUR",
+    "Price": "240.00",
+    "Width": "0.000",
+    "Depth": "0.000",
+    "Height": "0.000",
+    "DimUnit": "",
+    "CreatedAt": "/Date(1570521529268)/",
+    "ChangedAt": "/Date(1570521529268)/",
+    "ToSalesOrderLineItems": {
+      "__deferred": {
+        "uri": "ProductSet('661944840')/ToSalesOrderLineItems"
+      }
+    },
+    "ToSupplier": {
+      "__deferred": {
+        "uri": "ProductSet('661944840')/ToSupplier"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "ProductSet('66401640')",
+      "uri": "ProductSet('66401640')",
+      "type": "GWSAMPLE_BASIC.Product",
+      "etag": "W/\"datetime'2019-10-08T08%3A00%3A29.2659120'\""
+    },
+    "ProductID": "66401640",
+    "TypeCode": "PR",
+    "Category": "Notebooks",
+    "Name": "my very first product",
+    "NameLanguage": "EN",
+    "Description": "",
+    "DescriptionLanguage": "",
+    "SupplierID": "0100000000",
+    "SupplierName": "SAP",
+    "TaxTarifCode": 1,
+    "MeasureUnit": "EA",
+    "WeightMeasure": "0.000",
+    "WeightUnit": "",
+    "CurrencyCode": "EUR",
+    "Price": "2400000.00",
+    "Width": "0.000",
+    "Depth": "0.000",
+    "Height": "0.000",
+    "DimUnit": "",
+    "CreatedAt": "/Date(1570521629265)/",
+    "ChangedAt": "/Date(1570521629265)/",
+    "ToSalesOrderLineItems": {
+      "__deferred": {
+        "uri": "ProductSet('66401640')/ToSalesOrderLineItems"
+      }
+    },
+    "ToSupplier": {
+      "__deferred": {
+        "uri": "ProductSet('66401640')/ToSupplier"
+      }
+    }
+  }]

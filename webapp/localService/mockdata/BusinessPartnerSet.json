@@ -1,0 +1,362 @@
+[
+  {
+    "__metadata": {
+      "id": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000010')",
+      "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000010')",
+      "type": "GWSAMPLE_BASIC.BusinessPartner",
+      "etag": "W/\"datetime'2019-10-08T02%3A01%3A07.0000000'\""
+    },
+    "Address": {
+      "__metadata": {
+        "type": "GWSAMPLE_BASIC.CT_Address"
+      },
+      "City": "Atlanta, Georgia",
+      "PostalCode": "30338",
+      "Street": "Dunwoody Xing",
+      "Building": "3000",
+      "Country": "US",
+      "AddressType": "02"
+    },
+    "BusinessPartnerID": "0100000010",
+    "CompanyName": "Pear Computing Services",
+    "WebAddress": "http://www.pear-computing.com",
+    "EmailAddress": "franklin.jones@pear-computing.com",
+    "PhoneNumber": "6789012345",
+    "FaxNumber": "6789012004",
+    "LegalForm": "Inc.",
+    "CurrencyCode": "USD",
+    "BusinessPartnerRole": "02",
+    "CreatedAt": "/Date(1570500067000)/",
+    "ChangedAt": "/Date(1570500067000)/",
+    "ToSalesOrders": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000010')/ToSalesOrders"
+      }
+    },
+    "ToContacts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000010')/ToContacts"
+      }
+    },
+    "ToProducts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000010')/ToProducts"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000002')",
+      "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000002')",
+      "type": "GWSAMPLE_BASIC.BusinessPartner",
+      "etag": "W/\"datetime'2019-10-08T02%3A01%3A07.0000000'\""
+    },
+    "Address": {
+      "__metadata": {
+        "type": "GWSAMPLE_BASIC.CT_Address"
+      },
+      "City": "Wilmington, Delaware",
+      "PostalCode": "19899",
+      "Street": "1 2345 King Street",
+      "Building": "1",
+      "Country": "US",
+      "AddressType": "02"
+    },
+    "BusinessPartnerID": "0100000002",
+    "CompanyName": "DelBont Industries",
+    "WebAddress": "http://www.delbont.com",
+    "EmailAddress": "maria.brown@delbont.com",
+    "PhoneNumber": "3023352668",
+    "FaxNumber": "3023352004",
+    "LegalForm": "Ltd.",
+    "CurrencyCode": "USD",
+    "BusinessPartnerRole": "01",
+    "CreatedAt": "/Date(1570500067000)/",
+    "ChangedAt": "/Date(1570500067000)/",
+    "ToSalesOrders": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000002')/ToSalesOrders"
+      }
+    },
+    "ToContacts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000002')/ToContacts"
+      }
+    },
+    "ToProducts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000002')/ToProducts"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000009')",
+      "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000009')",
+      "type": "GWSAMPLE_BASIC.BusinessPartner",
+      "etag": "W/\"datetime'2019-10-08T02%3A01%3A07.0000000'\""
+    },
+    "Address": {
+      "__metadata": {
+        "type": "GWSAMPLE_BASIC.CT_Address"
+      },
+      "City": "Buenos Aires",
+      "PostalCode": "1511",
+      "Street": "Av. Libertador",
+      "Building": "12221",
+      "Country": "AR",
+      "AddressType": "02"
+    },
+    "BusinessPartnerID": "0100000009",
+    "CompanyName": "Telecomunicaciones Star",
+    "WebAddress": "http://www.telecomunicacionesstar.com",
+    "EmailAddress": "jorge.velez@telecomunicacionesstar.com",
+    "PhoneNumber": "1133557799",
+    "FaxNumber": "1133557004",
+    "LegalForm": "S.A.",
+    "CurrencyCode": "ARS",
+    "BusinessPartnerRole": "01",
+    "CreatedAt": "/Date(1570500067000)/",
+    "ChangedAt": "/Date(1570500067000)/",
+    "ToSalesOrders": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000009')/ToSalesOrders"
+      }
+    },
+    "ToContacts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000009')/ToContacts"
+      }
+    },
+    "ToProducts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000009')/ToProducts"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000011')",
+      "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000011')",
+      "type": "GWSAMPLE_BASIC.BusinessPartner",
+      "etag": "W/\"datetime'2019-10-08T02%3A01%3A07.0000000'\""
+    },
+    "Address": {
+      "__metadata": {
+        "type": "GWSAMPLE_BASIC.CT_Address"
+      },
+      "City": "Salzburg",
+      "PostalCode": "5020",
+      "Street": "Aiglhofstraße",
+      "Building": "20",
+      "Country": "AT",
+      "AddressType": "02"
+    },
+    "BusinessPartnerID": "0100000011",
+    "CompanyName": "Alpine Systems",
+    "WebAddress": "http://www.alp-systems.at",
+    "EmailAddress": "joseph_gschwandtner@alp-systems.at",
+    "PhoneNumber": "6623612804",
+    "FaxNumber": "6623612004",
+    "LegalForm": "AG",
+    "CurrencyCode": "EUR",
+    "BusinessPartnerRole": "01",
+    "CreatedAt": "/Date(1570500067000)/",
+    "ChangedAt": "/Date(1570500067000)/",
+    "ToSalesOrders": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000011')/ToSalesOrders"
+      }
+    },
+    "ToContacts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000011')/ToContacts"
+      }
+    },
+    "ToProducts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000011')/ToProducts"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000001')",
+      "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000001')",
+      "type": "GWSAMPLE_BASIC.BusinessPartner",
+      "etag": "W/\"datetime'2019-10-08T02%3A01%3A07.0000000'\""
+    },
+    "Address": {
+      "__metadata": {
+        "type": "GWSAMPLE_BASIC.CT_Address"
+      },
+      "City": "Berlin",
+      "PostalCode": "13467",
+      "Street": "Calvinstraße",
+      "Building": "36",
+      "Country": "DE",
+      "AddressType": "02"
+    },
+    "BusinessPartnerID": "0100000001",
+    "CompanyName": "Becker Berlin",
+    "WebAddress": "http://www.beckerberlin.de",
+    "EmailAddress": "dagmar.schulze@beckerberlin.de",
+    "PhoneNumber": "3088530",
+    "FaxNumber": "3088004",
+    "LegalForm": "GmbH",
+    "CurrencyCode": "EUR",
+    "BusinessPartnerRole": "02",
+    "CreatedAt": "/Date(1570500067000)/",
+    "ChangedAt": "/Date(1570500067000)/",
+    "ToSalesOrders": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000001')/ToSalesOrders"
+      }
+    },
+    "ToContacts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000001')/ToContacts"
+      }
+    },
+    "ToProducts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000001')/ToProducts"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000020')",
+      "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000020')",
+      "type": "GWSAMPLE_BASIC.BusinessPartner",
+      "etag": "W/\"datetime'2019-10-08T02%3A01%3A07.0000000'\""
+    },
+    "Address": {
+      "__metadata": {
+        "type": "GWSAMPLE_BASIC.CT_Address"
+      },
+      "City": "Moscow",
+      "PostalCode": "125719",
+      "Street": "Elektrozavodskaya ulitsa",
+      "Building": "21",
+      "Country": "RU",
+      "AddressType": "02"
+    },
+    "BusinessPartnerID": "0100000020",
+    "CompanyName": "Russian Electronic Trading Company",
+    "WebAddress": "http://www.retc.ru",
+    "EmailAddress": "igor.tarassow@retc.ru",
+    "PhoneNumber": "4050378468",
+    "FaxNumber": "4050378004",
+    "LegalForm": "z.a.o.",
+    "CurrencyCode": "RUB",
+    "BusinessPartnerRole": "02",
+    "CreatedAt": "/Date(1570500067000)/",
+    "ChangedAt": "/Date(1570500067000)/",
+    "ToSalesOrders": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000020')/ToSalesOrders"
+      }
+    },
+    "ToContacts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000020')/ToContacts"
+      }
+    },
+    "ToProducts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000020')/ToProducts"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000009')",
+      "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000009')",
+      "type": "GWSAMPLE_BASIC.BusinessPartner",
+      "etag": "W/\"datetime'2019-10-08T02%3A01%3A07.0000000'\""
+    },
+    "Address": {
+      "__metadata": {
+        "type": "GWSAMPLE_BASIC.CT_Address"
+      },
+      "City": "Buenos Aires",
+      "PostalCode": "1511",
+      "Street": "Av. Libertador",
+      "Building": "12221",
+      "Country": "AR",
+      "AddressType": "02"
+    },
+    "BusinessPartnerID": "0100000009",
+    "CompanyName": "Telecomunicaciones Star",
+    "WebAddress": "http://www.telecomunicacionesstar.com",
+    "EmailAddress": "jorge.velez@telecomunicacionesstar.com",
+    "PhoneNumber": "1133557799",
+    "FaxNumber": "1133557004",
+    "LegalForm": "S.A.",
+    "CurrencyCode": "ARS",
+    "BusinessPartnerRole": "01",
+    "CreatedAt": "/Date(1570500067000)/",
+    "ChangedAt": "/Date(1570500067000)/",
+    "ToSalesOrders": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000009')/ToSalesOrders"
+      }
+    },
+    "ToContacts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000009')/ToContacts"
+      }
+    },
+    "ToProducts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000009')/ToProducts"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000000')",
+      "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000000')",
+      "type": "GWSAMPLE_BASIC.BusinessPartner",
+      "etag": "W/\"datetime'2019-10-08T02%3A01%3A07.0000000'\""
+    },
+    "Address": {
+      "__metadata": {
+        "type": "GWSAMPLE_BASIC.CT_Address"
+      },
+      "City": "Walldorf",
+      "PostalCode": "69190",
+      "Street": "Dietmar-Hopp-Allee",
+      "Building": "16",
+      "Country": "DE",
+      "AddressType": "02"
+    },
+    "BusinessPartnerID": "0100000000",
+    "CompanyName": "SAP",
+    "WebAddress": "http://www.sap.com",
+    "EmailAddress": "do.not.reply@sap.com",
+    "PhoneNumber": "0622734567",
+    "FaxNumber": "0622734004",
+    "LegalForm": "SE",
+    "CurrencyCode": "EUR",
+    "BusinessPartnerRole": "01",
+    "CreatedAt": "/Date(1570500067000)/",
+    "ChangedAt": "/Date(1570500067000)/",
+    "ToSalesOrders": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000000')/ToSalesOrders"
+      }
+    },
+    "ToContacts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000000')/ToContacts"
+      }
+    },
+    "ToProducts": {
+      "__deferred": {
+        "uri": "https://sapes5.sapdevcenter.com/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/BusinessPartnerSet('0100000000')/ToProducts"
+      }
+    }
+  }
+]
